@@ -13,4 +13,4 @@ This notebook uses Python3 and the following libraries :
 - jupyter notebook
 
 ## Blogpost 
-All of the finding have been detailed in this blogpost - https://oneeclectic.medium.com/understanding-human-trafficking-with-data
+All of the finding have been detailed in this blogpost - https://oneeclectic.medium.com/understanding-human-trafficking-with-data-2860f6aa10ac
